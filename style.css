@@ -1,10 +1,12 @@
-.row, h1{
-    text-align:center;
+.row, h1, h3{
     font:black;
 }
 body{
     background-color:rgba(35, 189, 30, 0.863);
 }
-h3{
-    font:black;
+h1{
+    text-align:center;
+}
+.row{
+    text-align:left;
 }
