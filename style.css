@@ -1,7 +1,12 @@
 .row, h1{
     text-align:center;
 }
+.row{
+    font:white;
+}
 h3{
-    background-color:white;
     font:rgb(163, 218, 34);
+}
+body{
+    background-color:black;
 }
